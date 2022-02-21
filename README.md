@@ -44,8 +44,8 @@ yarn dev
 
 ## Expert
 
-| [<img src="https://github.com/josepholiveira.png" width="75px;"/>][1] |
+| [<img src="https://github.com/programador404.png" width="75px;"/>][1] |
 | :-------------------------------------------------------------------: |
-|                         [Joseph Oliveira][1]                          |
+|                           [Geziel Elyon][1]                           |
 
 [1]: https://github.com/josepholiveira
